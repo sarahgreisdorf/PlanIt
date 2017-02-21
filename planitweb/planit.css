@@ -1,0 +1,35 @@
+body {
+    background-image: url("blurryspace.jpg");
+    background-size:cover;
+
+}
+.heading p {
+    color: white;
+    font-family: 'Bubbler One';font-size: 60px;
+    font-weight: lighter;
+    vertical-align: center;
+    margin-bottom: 0;
+}
+
+.tabs th {
+    color: white;
+    font-family: 'Bubbler One';font-size: 30px;
+    font-weight: lighter;
+    vertical-align: center;
+    margin-bottom: 3%;
+    padding-right: 5%;
+    
+}
+
+.img1 {
+    z-index: -1;
+}
+
+.img2 {
+    z-index: 0;
+    padding-left: 2%;
+}
+
+.img3 {
+    z-index: 1;
+}
